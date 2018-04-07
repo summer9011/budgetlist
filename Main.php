@@ -4,7 +4,7 @@ class Main {
     private $db_host='localhost';
     private $db_port=3306;
     private $db_name='root';
-    private $db_pass='';
+    private $db_pass='root';
     private $db_dbname='BudgetList';
 
     public function __construct() {

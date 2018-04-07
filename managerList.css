@@ -1,0 +1,27 @@
+.div_class{background-color: white; font-weight:bolder;}
+
+.name_manager{cursor:pointer;}
+
+.manager_title {margin: 25px;font-size: 25px;}
+.name_manager {width: 60%}
+.specifications_manager {width: 16%}
+.number_manager {width: 23%}
+
+.started{color: #99ccff}
+.no_money{color: #cccc00}
+.ended{color: green}
+.stoped{color: red}
+
+.move_to{font-size: 20px;width: 80px; margin-top: 7px; text-align: center; color: #555}
+
+#fix_add button{font-size: 20px;width: 200px; margin: 10px; text-align: center;font-weight:bolder;}
+
+#alertcover{position: fixed; top: 0px;left: 0px; background:rgba(0,0,0,0.35);width: 100%; height: 100%; display: none}
+#moveb{width: 500px;height: 200px;background-color: white;position: fixed;top: 200px;left:40%}
+
+#moveb button{font-size: 20px; text-align: center;}
+
+#moveb span{font-size: 25px; margin: 0 auto;position: relative;top: 50px;left: 20px}
+
+#cancel_move{position: fixed;top:200px; width: 60px;margin: 10px}
+#move1, #move2, #move3{width: 150px;position: fixed;top:358px; font-weight:bolder;}

@@ -1,0 +1,40 @@
+#cover{background-color: black;opacity: 0.3;position: absolute;left: 0px;top: 0px; width: 100%;height: 100%;display: none}
+#cover img{position: absolute;left: 50%;top: 50%;z-index: 99}
+
+#content_right {position: absolute; right: 10px; top: 10px;}
+#content_right button {font-size: 20px;width: 160px; height: 50px; margin: 10px; color: black;text-align: center;}
+
+#fix_add{position: fixed;top: 45%;right: 10px;background-color: #cccccc}
+#fix_add button{font-size: 20px;width: 80px; margin: 10px; color: #3399ff;text-align: left;}
+
+.finish_div{width: 80%;text-align: center;margin-top: 30px}
+.finish_button{font-size: 20px;width: 160px;}
+
+#list_title_div{width: 80%;text-align: center;border: 1px solid #000;}
+.text_input{font-size: 20px}
+#list_name{height: 25px; width: 35%; margin: 20px 5px 20px 0;}
+
+.list_type{height: 40px; width: 25%;font-size: 20px;margin: 0 auto}
+
+.div_group{background-color: #fcf8e3}
+.div_class{background-color: #eee}
+
+.list{width: 80%;height: 45px;text-align: center;border: 1px solid #000;}
+.list{border-top: none}
+.list div{font-size: 20px;height: 45px;text-align: center;line-height: 45px; float: left;border-right: 1px solid #000;}
+
+.col_name{width: 17%}
+.col_specifications{width: 31%}
+.col_numbers{width: 12%}
+.col_square{width: 12%}
+.col_price{width: 12%}
+.col_total_price{width: 15%;color: #cc0000}
+
+.col_type{width: 80%;height: 40px;font-size: 20px;margin: 3px}
+
+.col_class{width: 80%;height: 25px;margin: 6px;}
+
+.col_operation{position:absolute;right:15%;border-right: none;}
+.col_operation button{font-size: 15px;color:#cc0000;margin-top: 10px;}
+
+#lastdiv {width: 100%;height: 1000px;}
